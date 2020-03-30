@@ -1,4 +1,4 @@
-**NO Copyright for the pictures used in the webpage.All copyright reserved with *Google Images* **
+**NO Copyright for the pictures used in the webpage.All copyright reserved with *Google Images***
 
 # A BLOG-WEBSITE
  
