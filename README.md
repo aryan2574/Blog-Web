@@ -1,9 +1,12 @@
 # The BLOG_WEBSITE
 
 ### A blog website 
- *STACK USED* :  ####  Server: Nodejs
-                 ####  Database: MongoDB
-                 #### Cloud Platform: AWS
+ 
+ ## *STACK USED* : 
+ 
+ ####  Server: Nodejs                
+ ####  Database: MongoDB
+ #### Cloud Platform: AWS
 
 
 ## In this website one can add,edit and delete their blog.
