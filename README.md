@@ -1,13 +1,15 @@
+**NO Copyright for the pictures used in the webpage.All copyright reserved with *Google Images* **
+
 # A BLOG-WEBSITE
  
  ## *STACK USED* : 
  
- ####  Server: Nodejs                
- ####  Database: MongoDB
- #### Cloud Platform: AWS
+ ####  Server        : Nodejs                
+ ####  Database      : MongoDB
+ ####  Cloud Platform: AWS
 
 
-## In this website one can add,edit and delete their blog.
+:pushpin: **In this website one can add,edit and delete their blog.**
 
 
 ## Screenshots
