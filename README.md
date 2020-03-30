@@ -1,6 +1,4 @@
-# The BLOG_WEBSITE
-
-### A blog website 
+# A BLOG-WEBSITE
  
  ## *STACK USED* : 
  
